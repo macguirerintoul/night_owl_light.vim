@@ -2,6 +2,9 @@
 
 > A light colour scheme for Vim based on [@sdras](https://github.com/sdras/)' Light Owl (aka Night Owl Light) [VSCode theme](https://github.com/sdras/night-owl-vscode-theme).
 
+![Screenshot of the theme.](screenshot.png)
+*Font is [Iosevka](https://github.com/be5invis/Iosevka)*
+
 ## Installation
 ### Package manager
 ```
