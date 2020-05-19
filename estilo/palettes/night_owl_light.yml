@@ -1,0 +1,8 @@
+background: "#FBFBFB" # light background colour
+foreground: "#403f53" # default text colour
+cursor: "#90A7B2"
+constant: "#4876d6"
+number: "#aa0982"
+boolean: "#bc5454"
+comment: "#939dbb"
+cursorline: "#F0F0F0"

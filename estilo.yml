@@ -1,0 +1,10 @@
+name: "night_owl_light"
+version: "0.1.0"
+license: "MIT"
+author: "Macguire Rintoul (https://macguire.me)"
+url: ""
+description: "Vim theme based on the Light Owl (Night Owl Light) VSCode theme"
+colorschemes:
+  - name: night_owl_light
+    background: "light"
+    palette: night_owl_light

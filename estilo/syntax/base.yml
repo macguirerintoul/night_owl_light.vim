@@ -1,0 +1,16 @@
+# BASE UI
+ColorColumn: "- cursorline" # ruler for line length
+Conceal: "" # conceal text with other text
+Cursor: "cursor" # colour of cursor
+CursorIM: "cursor"
+CursorColumn: "- cursorline" # highlight the current column
+CursorLine: "- cursorline" # highlight the current line
+CursorLineNr: "- cursorline" # highlight the current line (when cursorline or relativenumber is set)
+Directory: "foreground background"
+LineNr: "cursor background"
+Normal: "foreground background"
+# BASE SYNTAX
+Comment: "comment - i"
+Constant: "constant"
+Number: "number"
+Boolean: "boolean"
