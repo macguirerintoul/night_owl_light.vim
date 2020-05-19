@@ -12,7 +12,6 @@ NeoBundle 'macguirerintoul/night_owl_light.vim'
 " Vundle
 Plugin 'macguirerintoul/night_owl_light.vim'
 
-" 
 if (has("termguicolors"))
  set termguicolors
 endif
