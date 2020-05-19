@@ -4,9 +4,7 @@
 
 ![Screenshot of the theme.](screenshot.png)
 
-<center>
 *Font is [Iosevka](https://github.com/be5invis/Iosevka)*
-</center>
 
 ## Installation
 ### Package manager
